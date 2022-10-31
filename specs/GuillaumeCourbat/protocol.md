@@ -24,10 +24,10 @@ ___
 client: syn  
 server: syn-ack  
 client: ack  
-server: please enter calcul..
-client: 2 * 8
-server: 2 * 8 = 16
-server: new calcul please or send bye..
+server: please enter calcul..  
+client: 2 * 8  
+server: 2 * 8 = 16  
+server: new calcul please or send bye..  
 
 
 
